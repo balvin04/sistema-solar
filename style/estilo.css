@@ -93,3 +93,10 @@ li{
     line-height: 80px;
     text-transform:uppercase;
 }
+
+img{
+    border-radius: 20px;
+    width: 25%;
+    border: 2px solid white;
+    padding: 25%;
+}
