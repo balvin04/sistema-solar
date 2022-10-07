@@ -55,12 +55,14 @@ h2{
     text-decoration:underline;
     letter-spacing: 3px;
     text-shadow: 15px -4px 4px rgb(92, 92, 92);
+    padding: 0 10px;
 } 
 
 p{
     font-size: 16px;
     text-align:justify;
     word-spacing: 2px;
+    padding: 0 20px 20px;
 }
 
 footer{
